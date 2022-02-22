@@ -1,0 +1,1 @@
+https://ws.footballpool.dataaccess.eu/info.wso?WSDL
